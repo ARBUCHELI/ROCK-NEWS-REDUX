@@ -24,7 +24,7 @@ const ArticlePreviews = () => {
   return (
     <>
       <section className='articles-container'>
-        <h2 className='section-title'>All Articles</h2>
+        <h2 className='section-title'>All News</h2>
         {articlePreviews.map((article) => (
           <div key={article.id} onClick={(e) => dispatch(loadCurrentArticle(article.id))}>
             <ArticleListItem article={article} />

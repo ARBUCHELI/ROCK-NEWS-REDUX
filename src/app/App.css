@@ -17,7 +17,7 @@ main {
   grid-template-columns: repeat(2, 215px);
   grid-gap: 16px;
   justify-content: center;
-  background-color: #d6d4e0;
+  background-color: #f0f0f0;
   padding-bottom: 48px;
 }
 
@@ -32,7 +32,7 @@ main {
 .article-container {
   cursor: pointer;
   border-radius: 6px;
-  border: solid 3px #b8a9c9;
+  border: solid 3px #bd5734;
   background-color: #ffffff;
   color: #141c3a;
   padding: 0;
@@ -52,7 +52,11 @@ main {
   font-style: normal;
   line-height: normal;
   letter-spacing: normal;
-  color: #5b9aa0;
+  color: #034f84;
+}
+
+.article-title:hover {
+  color: #f0efef;
 }
 
 .article-container:hover {

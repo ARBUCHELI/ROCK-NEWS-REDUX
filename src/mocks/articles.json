@@ -1,58 +1,72 @@
 [
     {
       "id": 1,
-      "title": "Biden Inaugurated as 46th President - The New York Times",
-      "preview": "Joseph Robinette Biden Jr. and Kamala Devi Harris took the oath of office at a Capitol still reeling from the attack of a violent mob at a time when a deadly pandemic is still ravaging the country.",
-      "fullText": "Joseph Robinette Biden Jr. and Kamala Devi Harris took the oath of office at a Capitol still reeling from the attack of a violent mob at a time when a deadly pandemic is still ravaging the country.",
-      "image": "https://static01.nyt.com/images/2021/01/20/us/politics/20dc-biden1-sub3/20dc-biden1-sub3-facebookJumbo.jpg"
+      "title": "Jimi Hendrix: His Greatest Songs - only in the new issue of Classic Rock",
+      "preview": "Plus! Creedence Clearwater Revival, Nickelback, Kiss, Bush, Marcus King, Garbage, The White Buffalo, Peter Buck, The Hu and more",
+      "fullText": "Had the world not lost him at the ridiculously young age of 27 in 1970, Jimi Hendrix would have celebrated his 80th birthday this month. We don’t think there’s a rock guitarist… scratch that… a rock musician alive who doesn’t owe some sort of debt to Jimi. Whether in terms of sonics, playing skills or showmanship, we really haven’t seen another of his like.",
+      "image": "https://raw.githubusercontent.com/ARBUCHELI/ROCK-NEWS-PICTURES/master/Ch4EcPRmJhfGKzLJvSFW98-1200-80.jpg"
     },
     {
       "id": 2,
-      "title": "LG says it might quit the smartphone market",
-      "preview": "LG says it needs to make \"a cold judgment\" about its only money-losing division.",
-      "fullText": "LG says it needs to make \"a cold judgment\" about its only money-losing division.",
-      "image": "https://cdn.arstechnica.net/wp-content/uploads/2021/01/37-760x380.jpg"
+      "title": "Iron Maiden's Steve Harris announces 2023 UK tour with British Lion",
+      "preview": "British Lion roar back with 11-date UK tour in support of The Burning",
+      "fullText": "On a day when nothing else of news-value concerning Iron Maiden has occurred, bassist, band leader and founding member Steve Harris has announced an 11-date UK tour with his side band British Lion for January 2023.",
+      "image": "https://raw.githubusercontent.com/ARBUCHELI/ROCK-NEWS-PICTURES/master/kMEUUDRhc7WDjaTpA9ofqX-1200-80.jpg"
     },
     {
       "id": 3,
-      "title": "VW CEO teases Tesla’s Elon Musk in Twitter debut",
-      "preview": "VW CEO Herbert Diess is poking fun at his friendly rivalry with Tesla CEO Elon Musk in his Twitter debut as he tries to position Volkswagen as a leader in electrification.",
-      "fullText": "TVW CEO Herbert Diess is poking fun at his friendly rivalry with Tesla CEO Elon Musk in his Twitter debut as he tries to position Volkswagen as a leader in electrification.",
-      "image": "https://i1.wp.com/electrek.co/wp-content/uploads/sites/3/2020/09/VW-CEO-Hebert-Diess-Tesla-CEO-Elon-Musk-selfie-hero.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+      "title": "Smashing Pumpkins' Billy Corgan says that living life as a rock 'n' roll supervillain left him feeling suicidal",
+      "preview": "If you’re not winning, then the heel thing turns into a grating white noise says a reformed Billy Corgan",
+      "fullText": "Smashing Pumpkins' Billy Corgan says that he's tired of playing the role of a rock super-villain after coming to the realisation that trolling the world's media was leaving him feeling suicidal.",
+      "image": "https://raw.githubusercontent.com/ARBUCHELI/ROCK-NEWS-PICTURES/master/rE4h4p8mhHwUsduK2yfDVe-1200-80.jpg"
     },
     {
       "id": 4,
-      "title": "QAnon believers struggle with inauguration.",
-      "preview": "As President Biden took office, some QAnon believers tried to rejigger their theories to accommodate a transfer of power.",
-      "fullText": "As President Biden took office, some QAnon believers tried to rejigger their theories to accommodate a transfer of power.",
-      "image": "https://static01.nyt.com/images/2021/01/20/business/20distortions-qanon/20distortions-qanon-facebookJumbo.jpg"
+      "title": "Jimmy Page recalls the time he and Brian May played with Bad News supporting Iron Maiden: my amp mysteriously cut in and out",
+      "preview": "Jimmy Page has pretty much broken the internet with this photo of himself, Brian May, Bad News and Iron Maiden - and the anecdote he's shared with it ain't too bad either!",
+      "fullText": "Led Zeppelin legend Jimmy Page has posted an amusing anecdote regarding the unlikely moment he became a bonus guitarist for British comedy heavy metal band, Bad News - alongside none other than fellow guitar god and Queen icon, Brian May!",
+      "image": "https://raw.githubusercontent.com/ARBUCHELI/ROCK-NEWS-PICTURES/master/6y88PnFXcz6sjt65mpKGic-1200-80.jpg"
     },
     {
       "id": 5,
-      "title": "Kamala Harris sworn into history",
-      "preview": "Harris becomes the first woman, Black woman and Asian American to serve as vice president.",
-      "fullText": "Harris becomes the first woman, Black woman and Asian American to serve as vice president.",
-      "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/H4TGAGS3IEI6XKCJN6KCHJ277U.jpg&w=1440"
+      "title": "Iggy Pop announces new album Every Loser",
+      "preview": "The Godfather of Punk has shared details of his 19th solo album, Every Loser",
+      "fullText": "The forthcoming record will serve as The Godfather of Punk's first offering through the partnership of Atlantic Records and Gold Tooth Records, the latter of which was founded by Ozzy Osbourne's producer, Andrew Watt, who's also worked with Post Malone, Miley Cyrus and more.",
+      "image": "https://raw.githubusercontent.com/ARBUCHELI/ROCK-NEWS-PICTURES/master/GVxUTCaWLhbe4gesWb942W-1200-80.jpg"
     },
     {
       "id": 6,
-      "title": "SpaceX expands public beta test of Starlink satellite internet to Canada and the UK",
-      "preview": "Elon Musk's company is now offering early public access to its Starlink satellite internet service in Canada and the U.K.",
-      "fullText": "Elon Musk's company is now offering early public access to its Starlink satellite internet service in Canada and the U.K.",
-      "image": "https://image.cnbcfm.com/api/v1/image/106758975-1603465968180-EkzQ0UbXgAAGYVe-orig.jpg?v=1603466027"
+      "title": "Ozzy Osbourne doesn't want a famous actor to play him in upcoming biopic: I don’t want to have anyone like Johnny Depp",
+      "preview": "The Prince Of Darkness wants an unknown actor to play him in the forthcoming biopic that's set to explore his relationship with wife and manager Sharon Osbourne",
+      "fullText": "Ozzy Osbourne has one main requirement when it comes to the casting of the actor who will portray him in his forthcoming biopic, and it's that the thespian in question must be relatively unknown.",
+      "image": "https://raw.githubusercontent.com/ARBUCHELI/ROCK-NEWS-PICTURES/master/yXtHfa4Xsq3WkbftWfWYG3-1200-80.jpg"
     },
     {
       "id": 7,
-      "title": "Scientists have finally worked out how butterflies fly",
-      "preview": "Experts, long puzzled by how butterflies fly, have found that the insects \"clap\" their wings together -- and their wings are perfectly evolved for better propulsion.",
-      "fullText": "Experts, long puzzled by how butterflies fly, have found that the insects \"clap\" their wings together -- and their wings are perfectly evolved for better propulsion.",
-      "image": "https://cdn.cnn.com/cnnnext/dam/assets/210120064324-restricted-butterflies-clap-intl-scli-super-tease.jpg"
+      "title": "Boomtown Rats guitarist Garry Roberts dead at 72",
+      "preview": "The Boomtown Rats have announced the news of the death of founding guitarist Garry Roberts",
+      "fullText": "Garry Roberts, founding lead guitarist with Irish punk/new wave band The Boomtown Rats, has died at the age of 72. The news was confirmed in a social media post from the band.",
+      "image": "https://raw.githubusercontent.com/ARBUCHELI/ROCK-NEWS-PICTURES/master/yGMXmzifB3RvTgtpashCcH-1200-80.jpg"
     },
     {
       "id": 8,
-      "title": "Navalny releases investigation into decadent billion-dollar 'Putin palace'",
-      "preview": "Even locked up in a detention center on the outskirts of Moscow, Kremlin critic Alexey Navalny continues to be a thorn in Russian President Vladimir Putin's side.",
-      "fullText": "Even locked up in a detention center on the outskirts of Moscow, Kremlin critic Alexey Navalny continues to be a thorn in Russian President Vladimir Putin's side.",
-      "image": "https://cdn.cnn.com/cnnnext/dam/assets/210120111237-restricted-05-putin-palace-navalny-russia-intl-super-tease.jpeg"
+      "title": "Watch official footage of Metallica playing Phantom Lord",
+      "preview": "Thrash metal icons performed Kill 'Em All classic at Florida tribute to former manager Jon Zazula",
+      "fullText": "Metallica have released official footage of their performance of Phantom Lord at last weekend's tribute to former manager Jon Zazula in Florida.",
+      "image": "https://raw.githubusercontent.com/ARBUCHELI/ROCK-NEWS-PICTURES/master/WgTbmwBAc6i2TqT7up5GyX-1200-80.png"
+    },
+    {
+      "id": 9,
+      "title": "David Draiman can't wait to see 'respectful' Pantera reunion",
+      "preview": "Disturbed frontman hails choice of Zakk Wylde and Charlie Benante to fill shoes of late Abbott brothers",
+      "fullText": "And he described the decision to bring in Zakk Wylde in place of the late Dimebag Darrell on guitar and Anthrax drummer Charlie Benante to replace the late Vinnie Paul as respectful and appropriate.",
+      "image": "https://raw.githubusercontent.com/ARBUCHELI/ROCK-NEWS-PICTURES/master/V7ozmHQFDLuDExSvwwD3Vg-1200-80.jpg"
+    },
+    {
+      "id": 10,
+      "title": "Richie Sambora is 'talking' to Bon Jovi about reunion",
+      "preview": "Guitarist says there's a 'possibility' he'll be back on stage with Bon Jovi — maybe as Glastonbury 2023 headliners",
+      "fullText": "The guitarist joined Bon Jovi in 1983 and co-wrote most of the band’s biggest hits. He walked away in 2013 prior to a show on the first leg of their Because We Can tour, later citing the need for a break and to handle some family issues.",
+      "image": "https://raw.githubusercontent.com/ARBUCHELI/ROCK-NEWS-PICTURES/master/sambora.jpg"
     }
   ]
